@@ -7,12 +7,12 @@
 	+ String : Text
 * Shortened Name can be used eg. glo -> GLOBE.png/ bh -> BLACK_HOLE.png
 # Entity’s Property
-	**## Vector**
-1.	loc = Location = 0
+	## Vector
+**1.	loc = Location = 0
 2.	vel = Velocity = 0
 3.	acc = Acceleration = 0
-4.	siz = Size = (100,100)
-	## + Double
+4.	siz = Size = (100,100)**
+	## Double
 1.	mas = Mass = 10
 2.	elc = Elasticity = 1
 3.	trc = Tracing Position Count = 20

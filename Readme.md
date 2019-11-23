@@ -7,17 +7,17 @@
 	+ String : Text
 * Shortened Name can be used eg. glo -> GLOBE.png/ bh -> BLACK_HOLE.png
 # Entity’s Property
-	## Vector
+	* ## Vector
 **1.	loc = Location = 0
 2.	vel = Velocity = 0
 3.	acc = Acceleration = 0
 4.	siz = Size = (100,100)**
-	## Double
+	* ## Double
 1.	mas = Mass = 10
 2.	elc = Elasticity = 1
 3.	trc = Tracing Position Count = 20
 4.	mot = Motion(Displacement) Scale = 0.5
-	## Boolean
+	* ## Boolean
 1.	mtg = Mutual Gravity (Common Gravity) = false
     true : calculate through G * m1 * m2 / r^2
     false : Constants Gravity only in reference to the mass of gravity source.

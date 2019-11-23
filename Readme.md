@@ -1,10 +1,10 @@
 <font color=#66ccff>edit by lty4ever</font>
 # Property Data Type
 * Keyword def can be used as Global Default Value
-    + Vector : ([X],[Y])   0 -> (0,0) 	[dd]% -> Percentage of Screen
-	+ Double : Number
-	+ Boolean : true(t) / false(f)
-	+ String : Text
++ Vector : ([X],[Y])   0 -> (0,0) 	[dd]% -> Percentage of Screen
++ Double : Number
++ Boolean : true(t) / false(f)
++ String : Text
 * Shortened Name can be used eg. glo -> GLOBE.png/ bh -> BLACK_HOLE.png
 # Entity’s Property
 * ## Vector
